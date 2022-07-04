@@ -1,0 +1,19 @@
+Spring Features
+
+IoC Container (Inversion of Control)
+
+It is a process by which an object defines its dependency 
+(ie the other object they work with either through 
+constructor argument or simple property )
+The Container Injects the dependency when the bean is being created
+It is a core container that uses dependency injection to 
+implicitly instantiate objects during runtime
+This container also handles configuration management of application objects
+The process is Inverse therefore the inversion of container
+
+Spring MVC Framework
+
+Create web applications using MVC architecture
+All requests made by the user goes through a controller and gets 
+dispatched to model or view based on the mapping
+This framework can be integrated with all frontend technologies
