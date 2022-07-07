@@ -36,6 +36,6 @@ public class Book {
 		return authorName;
 	}
 	public void setAuthorName(String authorName) {
-		this.authorName = authorName;
+		this.authorName = authorName
 	}
 }
